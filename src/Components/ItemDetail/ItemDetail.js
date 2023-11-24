@@ -12,7 +12,7 @@ const ItemDetail = ({ item }) => {
     const { addProduct } = useCartContext()
     const onAdd = (quantity) => {
         setGoToCart(true);
-        addProduct(item, quantity);
+        addProduct(item,quantity);
     }
 
 
