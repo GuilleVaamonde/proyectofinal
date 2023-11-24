@@ -1,0 +1,11 @@
+.img{
+    height: 150px;
+    margin-top: 15px;
+}
+.itemCart{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100hv;
+    justify-content:initial ;
+}

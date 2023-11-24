@@ -1,0 +1,27 @@
+.contenedorForm{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 400px;
+        height: 250px;
+        border-radius: 10px;
+        color: white;
+        margin: auto;
+        justify-content: center;
+        align-items: center;
+}
+.inputs{
+    margin-bottom: 5px;
+        width: 370px;
+        height: 30px;
+        font-size: 17px;
+}
+.formButton{
+    margin: 2px;
+    border-radius: 25px;
+}
+.formButton:hover  {
+    border-radius: 45px;
+    border-color: yellow;
+    
+}

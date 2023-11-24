@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "nombre": "Fantasia",
+        "descripcion": "Remera con Frase",
+        "imagen": "/Assets/1.jpg",
+        "precio": 690,
+        "stock": 10,
+        "categoria": "Frases"
+    },
+    {
+        "id": 2,
+        "nombre": "Envidia",
+        "descripcion": "Remera con Frase",
+        "imagen": "/Assets/2.jpg",
+        "precio": 690,
+        "stock": 10,
+        "categoria": "Frases"
+    },
+    {
+        "id": 3,
+        "nombre": "Juntar Plata",
+        "descripcion": "Remera con Frase",
+        "imagen": "/Assets/3.jpg",
+        "precio": 690,
+        "stock": 10,
+        "categoria": "Frases"
+    },
+    {
+        "id": 4,
+        "nombre": "Cerveza y malas decisiones",
+        "descripcion": "Remera con Frase",
+        "imagen": "/Assets/4.jpg",
+        "precio": 690,
+        "stock": 10,
+        "categoria": "Frases"
+    },
+    {
+        "id": 5,
+        "nombre": "Lloradita",
+        "descripcion": "Remera con Frase",
+        "imagen": "/Assets/5.jpg",
+        "precio": 690,
+        "stock": 10,
+        "categoria": "Frases"
+    },
+    {
+        "id": 6,
+        "nombre": "Me decia bebe",
+        "descripcion": "Remera con Frase",
+        "imagen": "/Assets/6.jpg",
+        "precio": 690,
+        "stock": 10,
+        "categoria": "Frases"
+    },
+    {
+        "id": 7,
+        "nombre": "Sobrepensando",
+        "descripcion": "Remera con Frase",
+        "imagen": "/Assets/7.jpg",
+        "precio": 690,
+        "stock": 10,
+        "categoria": "Frases"
+    },
+    {
+        "id": 8,
+        "nombre": "Me tome hasta la molestia",
+        "descripcion": "Remera con Frase",
+        "imagen": "/Assets/8.jpg",
+        "precio": 690,
+        "stock": 10,
+        "categoria": "Frases"
+    },
+    {
+        "id": 9,
+        "nombre": "El alquiler es un robo",
+        "descripcion": "Remera con Diseño",
+        "imagen": "/Assets/9.jpg",
+        "precio": 690,
+        "stock": 10,
+        "categoria": "Frases"
+    },
+    {
+        "id": 10,
+        "nombre": "Britney",
+        "descripcion": "Remera con Diseño",
+        "imagen": "/Assets/britney.jpg",
+        "precio": 690,
+        "stock": 10,
+        "categoria": "Diseños"
+    },
+    {
+        "id": 11,
+        "nombre": "Rick & Morty",
+        "descripcion": "Remera con Diseño",
+        "imagen": "/Assets/IMG_20220523_183724_622.jpg",
+        "precio": 690,
+        "stock": 10,
+        "categoria": "Diseños"
+    },
+    {
+        "id": 12,
+        "nombre": "Lisa Simpson",
+        "descripcion": "Remera con Diseño",
+        "imagen": "/Assets/IMG-20220516-WA0008.jpg",
+        "precio": 690,
+        "stock": 10,
+        "categoria": "Diseños"
+    }
+]
