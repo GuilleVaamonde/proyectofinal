@@ -160,6 +160,14 @@ export const Checkout = () => {
                     <p className="orden">
                         ¡Gracias por tu compra! <br /> Este es tu numero de orden: <br />{' '}
                         {ordenId}{' '}
+                        <div> {/* boton que nos lleva al inicio cuando termina la compra */}
+                        <Link to="/">
+                            <button className="botonCard">Volver al Inicio</button>
+                        </Link>
+                    </div>
+
+                        
+                        
                     </p>
                 )}
 
@@ -175,6 +183,7 @@ export const Checkout = () => {
                     </div>
                 </div>
             </form>
+            
         </>
     );
 };

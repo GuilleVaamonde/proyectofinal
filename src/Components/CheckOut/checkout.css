@@ -25,3 +25,24 @@
     border-color: yellow;
     
 }
+.orden{
+    height: 15rem;
+    width: 30rem;
+    position: absolute;
+    text-align: auto;
+    font-size: 28px;
+    background: rgba(0, 0, 0, 0.5); /*  opacidad 0.5 */
+    border-radius: 10px; /* Bordes redondeados para un aspecto más suave */
+    backdrop-filter: blur(50px); /* desenfoque */
+    padding: 20px; /* Añadir relleno para que el contenido no se pegue a los bordes */
+    margin: 50px; /* Ajustar márgenes según sea necesario */
+}
+.botonCard{
+    height: 5rem;
+    width: 5rem;
+    font-size: 15px;
+    margin-top: 10px;
+    background-color: #e7e7e7; color: black;;
+    border-radius: 44px;
+}
+/* //////////// */

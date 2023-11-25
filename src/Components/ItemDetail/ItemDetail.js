@@ -17,6 +17,7 @@ const ItemDetail = ({ item }) => {
 
 
     return (
+        <div className='itemDetailContainer'>
         <div className='row'>
             <div className='col-md4 offset-md4'>
                 <img src={item.img} className='card-fluid' alt={item.title} />
@@ -27,9 +28,10 @@ const ItemDetail = ({ item }) => {
             </div>
             <div>
                 <div>
-                    {goToCart ? <Link to='/cart'  >Terminar compra</Link> : <ItemCount stock={10} initial={0} onAdd={onAdd} />}
+                    {goToCart ? <Link to='/cart' className='btn btn-outline-primary btn-terminarCompra' >Terminar compra</Link> : <ItemCount stock={10} initial={0} onAdd={onAdd} />}
                 </div>
             </div>
+        </div>
         </div>
 
     )

@@ -1,9 +1,15 @@
-
 .ItemContainer {
+
+    
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 100hv;
-    border: dotted;
-    justify-content:initial ;
+    flex-direction: column;
+    
+    border-radius: 10px;
+    color: white;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+.botonesCompra{
+    margin: 10px;
 }

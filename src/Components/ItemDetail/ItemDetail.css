@@ -1,8 +1,16 @@
 .card-fluid{
+    display: flex;
+    margin: auto;
+    padding: 20px;
     height: 400px;
     width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
 }
 .itemDiv{
     height: 100vh;
     text-align: center;
+}
+.btn-terminarCompra{
+    margin-bottom: 25px;
 }
